@@ -1,0 +1,6 @@
+-r requirements.txt
+
+# required for development
+coverage
+nose
+sphinx
